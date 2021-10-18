@@ -1,2 +1,2 @@
-frst
-scnd
+first
+secnd
