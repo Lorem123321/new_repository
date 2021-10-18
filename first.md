@@ -1,2 +1,2 @@
-frst
-scnd
+frst???
+(: scnd
